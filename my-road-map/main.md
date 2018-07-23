@@ -13,5 +13,5 @@
 - [] Design Patterns
 - [x] Github
 
-#### [Back-end](./my-road-map/back-end-roadmap.md)
-#### [Front-end](./my-road-map/front-end-roadmap.md)
+#### [Back-end](back-end-roadmap.md)
+#### [Front-end](front-end-roadmap.md)
