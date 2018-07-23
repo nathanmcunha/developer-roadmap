@@ -1,7 +1,7 @@
 
-#Main
+# Main
 
-#### Required for any path 
+### Required for any path 
 
 - [x] Git 
 - [] SSH 
@@ -13,5 +13,5 @@
 - [] Design Patterns
 - [x] Github
 
-##### [Back-end](./my-road-map/back-end-roadmap.md)
-##### [Front-end](./my-road-map/front-end-roadmap.md)
+#### [Back-end](./my-road-map/back-end-roadmap.md)
+#### [Front-end](./my-road-map/front-end-roadmap.md)
