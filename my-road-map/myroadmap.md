@@ -103,16 +103,28 @@ Expert: :star: :star: :star: :star:
  #### :one::five: Message Brokers 
 - [] Rabbit Mq  
 
- #### :one::five: Learn Search Engine  
+ #### :one::six: Learn Search Engine  
 - [] Elastic Search  
 - [] Solr 
 
- #### :one::six: Learn to use Docker 
+ #### :one::seven: Learn to use Docker 
  - []
 
- #### :one::seven: Knowledge Web Servers 
+ #### :one::eight: Knowledge Web Servers 
  - [x] Apache :star:
  - [] Ngix 
 
-#### :one::seven: Learn how to use web sockets
+#### :one::nine: Learn how to use web sockets
 - []
+
+
+#### :two::zero: Learn GrahpQL 
+- []
+
+#### :two::one: Learn GrahpQL 
+ - []
+
+#### :two::one: Look into Graph Databases 
+- []  
+
+
