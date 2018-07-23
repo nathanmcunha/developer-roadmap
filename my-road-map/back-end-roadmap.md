@@ -1,19 +1,6 @@
 # This is my check list of Back-End roadmap  
 
 
-#### Required for any path 
-
-- [x] Git 
-- [] SSH 
-- [x] HTTP/HTTPS and APIs
-- [x] Basic terminal 
-- [x] Learn to reserch 
-- [x] Data Structures and Algorithms 
-- [] Characthers Enconding
-- [] Design Patterns
-- [x] Github
-
-
 ##### Scale :
 
 Beginner/Notions:   :star: 
