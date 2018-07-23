@@ -17,10 +17,14 @@
 
 #### Back-End
 
-##### Scale :   
+##### Scale :
+
 Beginner/Notions:   :star: 
+
 Fundamentals: :star: :star: 
+
 Advanced: :star: :star: :star: 
+
 Expert: :star: :star: :star: :star: 
 ##### :one: - Languages: 
 
@@ -28,7 +32,7 @@ Expert: :star: :star: :star: :star:
     - [x] Python - :star: :star: 
     - [x] Ruby - :star:
 
-* **Function Languages**
+* **Functional Languages**
 - [] Clojure (Learning) 
 
 * **Other Options** 
