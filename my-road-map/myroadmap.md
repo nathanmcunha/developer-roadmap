@@ -1,4 +1,4 @@
-# This is my check list of the roadmap  
+# This is my check list of Back-End roadmap  
 
 
 #### Required for any path 
@@ -13,9 +13,6 @@
 - [] Design Patterns
 - [x] Github
 
-
-
-## Back-End
 
 ##### Scale :
 
@@ -81,7 +78,6 @@ Expert: :star: :star: :star: :star:
 #### :nine: Pratical time   
 
 #### :keycap_ten: Learn a framework 
-- [x] Angular :star: :star: 
 - [x] Spring :star: 
 - [x] Flask :star:
 - [x] Django :star: 
