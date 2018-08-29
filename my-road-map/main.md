@@ -9,7 +9,7 @@
 - [x] Basic terminal 
 - [x] Learn to reserch 
 - [x] Data Structures and Algorithms 
-- [] Characthers Enconding
+- [x] Characthers Enconding
 - [] Design Patterns
 - [x] Github
 
